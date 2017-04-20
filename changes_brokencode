@@ -1,7 +1,13 @@
-1. h1 tag missing for Boo the Dog title 
+1. h1 tag missing for Boo the Dog title
 2. < > missing for image
 3. change errors.js to logic.js
 change orange green pink to match "	<button class="btn" id="textOrange">Orange</button>"
 "click"
 <li></li>
 lie 9 logic.js add ""
+git commands:
+git add filename.html
+git status
+git commit -m "Adding html changes to filename"
+git pull
+git push origin master
